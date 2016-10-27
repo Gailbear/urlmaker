@@ -1,5 +1,6 @@
 ```
-usage: Formats text as a url of the specified minimum length, with the specified features, made of words drawn from a text file. Default is text of the star spangled banner.
+usage: Formats text as a url of the specified minimum length, with the specified features,
+made of words drawn from a text file. Default is text of the star spangled banner.
        [-h] [-d DOMAIN_LEN] [-p PREFIX] [-w WORDS] url_len parts_params_len
 
 positional arguments:
